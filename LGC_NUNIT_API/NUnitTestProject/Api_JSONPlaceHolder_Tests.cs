@@ -55,8 +55,11 @@ namespace Api_JSONPlaceHolder_Tests
             }
 
             // Log response details
+            TestContext.WriteLine("Get Request");
             TestContext.WriteLine($"Response Status Code: {response.StatusCode}");
             TestContext.WriteLine($"Response Content: {response.Content}");
+
+            Assert.Pass();
         }
 
         [Test]
@@ -96,9 +99,13 @@ namespace Api_JSONPlaceHolder_Tests
             }
 
             // Log response details
+            TestContext.WriteLine("Post Request");
             TestContext.WriteLine($"Response Status Code: {response.StatusCode}");
             TestContext.WriteLine($"Response Content: {response.Content}");
+
+            Assert.Pass();
         }
+
         [Test]
         [AllureTag("APIPUT")]
         public void PUT_Request()
@@ -137,9 +144,13 @@ namespace Api_JSONPlaceHolder_Tests
             }
 
             // Log response details
+            TestContext.WriteLine("Put Request");
             TestContext.WriteLine($"Response Status Code: {response.StatusCode}");
             TestContext.WriteLine($"Response Content: {response.Content}");
+
+            Assert.Pass();
         }
+
         [Test]
         [AllureTag("APIDELETE")]
         public void DELETE_Request()
@@ -155,8 +166,11 @@ namespace Api_JSONPlaceHolder_Tests
             Assert.That(response.Content, Is.EqualTo("{}"));
 
             // Log response details
+            TestContext.WriteLine("Delete Request");
             TestContext.WriteLine($"Response Status Code: {response.StatusCode}");
             TestContext.WriteLine($"Response Content: {response.Content}");
+
+            Assert.Pass();
         }
     }
 }

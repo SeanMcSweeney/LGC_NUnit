@@ -1,0 +1,62 @@
+{
+  "uuid": "6cfb1bce-91d5-416d-86b0-0680b699218e",
+  "historyId": "21a07826044e5e0e7824b6553ddc49d5",
+  "testCaseId": "da3af08c0ee8e28559523c8f711b95f5",
+  "fullName": "NUnitTestProject:Api_JSONPlaceHolder_Tests.Api_JSONPlaceHolder_Tests.POST_Request()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NUnit.Fw.NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "SEANS_PC"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "Api_JSONPlaceHolder_Tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "POST_Request"
+    },
+    {
+      "name": "testClass",
+      "value": "Api_JSONPlaceHolder_Tests"
+    },
+    {
+      "name": "tag",
+      "value": "APIPOST"
+    }
+  ],
+  "links": [],
+  "name": "POST_Request",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "Test Passed",
+    "trace": "   at Api_JSONPlaceHolder_Tests.Api_JSONPlaceHolder_Tests.POST_Request() in C:\\Users\\ssmcs\\Documents\\GitHub\\LGC_NUnit\\LGC_NUNIT_API\\NUnitTestProject\\Api_JSONPlaceHolder_Tests.cs:line 106\r\n"
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "8b7ae068-e8cb-49dc-a2b3-ff7ae776a768-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1736027602466,
+  "stop": 1736027602558
+}

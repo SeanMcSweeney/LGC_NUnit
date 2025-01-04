@@ -1,0 +1,8 @@
+Put Request
+Response Status Code: OK
+Response Content: {
+  "userId": 98,
+  "title": "LGC Test Title PUT REQ",
+  "body": "LGC Test Body PUT REQ",
+  "id": 1
+}

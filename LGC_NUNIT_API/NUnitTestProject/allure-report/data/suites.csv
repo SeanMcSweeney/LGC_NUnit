@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","184","DELETE_Request","","Sat Jan 04 21:53:22 GMT 2025","passed","Sat Jan 04 21:53:22 GMT 2025","","","Api_JSONPlaceHolder_Tests","DELETE_Request"
+"","22","GET_Request","","Sat Jan 04 21:53:22 GMT 2025","passed","Sat Jan 04 21:53:22 GMT 2025","","","Api_JSONPlaceHolder_Tests","GET_Request"
+"","92","POST_Request","","Sat Jan 04 21:53:22 GMT 2025","passed","Sat Jan 04 21:53:22 GMT 2025","","","Api_JSONPlaceHolder_Tests","POST_Request"
+"","230","PUT_Request","","Sat Jan 04 21:53:22 GMT 2025","passed","Sat Jan 04 21:53:22 GMT 2025","","","Api_JSONPlaceHolder_Tests","PUT_Request"

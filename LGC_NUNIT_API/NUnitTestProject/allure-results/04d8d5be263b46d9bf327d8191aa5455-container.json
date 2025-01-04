@@ -1,0 +1,12 @@
+{
+  "uuid": "adcba5da-54b1-47f0-a4c1-e2de466dbe0d",
+  "name": "Api_JSONPlaceHolder_Tests.Api_JSONPlaceHolder_Tests.DELETE_Request",
+  "children": [
+    "b734b583-cd21-46d2-93fd-efdbd0789c07"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1736027602243,
+  "stop": 1736027602440
+}

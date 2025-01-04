@@ -10,6 +10,9 @@ C:\Users\ssmcs\Documents\GitHub\LGC_NUnit\LGC_NUNIT_API\NUnitTestProject\bin\Deb
 C:\Users\ssmcs\Documents\GitHub\LGC_NUnit\LGC_NUNIT_API\NUnitTestProject\bin\Debug\net9.0\NUnitTestProject.runtimeconfig.json
 C:\Users\ssmcs\Documents\GitHub\LGC_NUnit\LGC_NUNIT_API\NUnitTestProject\bin\Debug\net9.0\NUnitTestProject.dll
 C:\Users\ssmcs\Documents\GitHub\LGC_NUnit\LGC_NUNIT_API\NUnitTestProject\bin\Debug\net9.0\NUnitTestProject.pdb
+C:\Users\ssmcs\Documents\GitHub\LGC_NUnit\LGC_NUNIT_API\NUnitTestProject\bin\Debug\net9.0\Allure.Net.Commons.dll
+C:\Users\ssmcs\Documents\GitHub\LGC_NUnit\LGC_NUNIT_API\NUnitTestProject\bin\Debug\net9.0\Allure.NUnit.dll
+C:\Users\ssmcs\Documents\GitHub\LGC_NUnit\LGC_NUNIT_API\NUnitTestProject\bin\Debug\net9.0\AspectInjector.Broker.dll
 C:\Users\ssmcs\Documents\GitHub\LGC_NUnit\LGC_NUNIT_API\NUnitTestProject\bin\Debug\net9.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
 C:\Users\ssmcs\Documents\GitHub\LGC_NUnit\LGC_NUNIT_API\NUnitTestProject\bin\Debug\net9.0\Microsoft.TestPlatform.CoreUtilities.dll
 C:\Users\ssmcs\Documents\GitHub\LGC_NUnit\LGC_NUNIT_API\NUnitTestProject\bin\Debug\net9.0\Microsoft.TestPlatform.PlatformAbstractions.dll
@@ -18,9 +21,11 @@ C:\Users\ssmcs\Documents\GitHub\LGC_NUnit\LGC_NUNIT_API\NUnitTestProject\bin\Deb
 C:\Users\ssmcs\Documents\GitHub\LGC_NUnit\LGC_NUNIT_API\NUnitTestProject\bin\Debug\net9.0\Microsoft.TestPlatform.CrossPlatEngine.dll
 C:\Users\ssmcs\Documents\GitHub\LGC_NUnit\LGC_NUNIT_API\NUnitTestProject\bin\Debug\net9.0\Microsoft.TestPlatform.Utilities.dll
 C:\Users\ssmcs\Documents\GitHub\LGC_NUnit\LGC_NUNIT_API\NUnitTestProject\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\ssmcs\Documents\GitHub\LGC_NUnit\LGC_NUNIT_API\NUnitTestProject\bin\Debug\net9.0\MimeTypesMap.dll
 C:\Users\ssmcs\Documents\GitHub\LGC_NUnit\LGC_NUNIT_API\NUnitTestProject\bin\Debug\net9.0\Newtonsoft.Json.dll
 C:\Users\ssmcs\Documents\GitHub\LGC_NUnit\LGC_NUNIT_API\NUnitTestProject\bin\Debug\net9.0\nunit.framework.dll
 C:\Users\ssmcs\Documents\GitHub\LGC_NUnit\LGC_NUNIT_API\NUnitTestProject\bin\Debug\net9.0\nunit.framework.legacy.dll
+C:\Users\ssmcs\Documents\GitHub\LGC_NUnit\LGC_NUNIT_API\NUnitTestProject\bin\Debug\net9.0\RestSharp.dll
 C:\Users\ssmcs\Documents\GitHub\LGC_NUnit\LGC_NUNIT_API\NUnitTestProject\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
 C:\Users\ssmcs\Documents\GitHub\LGC_NUnit\LGC_NUNIT_API\NUnitTestProject\bin\Debug\net9.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
 C:\Users\ssmcs\Documents\GitHub\LGC_NUnit\LGC_NUNIT_API\NUnitTestProject\bin\Debug\net9.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
@@ -98,8 +103,4 @@ C:\Users\ssmcs\Documents\GitHub\LGC_NUnit\LGC_NUNIT_API\NUnitTestProject\obj\Deb
 C:\Users\ssmcs\Documents\GitHub\LGC_NUnit\LGC_NUNIT_API\NUnitTestProject\obj\Debug\net9.0\NUnitTestProject.pdb
 C:\Users\ssmcs\Documents\GitHub\LGC_NUnit\LGC_NUNIT_API\NUnitTestProject\obj\Debug\net9.0\NUnitTestProject.genruntimeconfig.cache
 C:\Users\ssmcs\Documents\GitHub\LGC_NUnit\LGC_NUNIT_API\NUnitTestProject\obj\Debug\net9.0\ref\NUnitTestProject.dll
-C:\Users\ssmcs\Documents\GitHub\LGC_NUnit\LGC_NUNIT_API\NUnitTestProject\bin\Debug\net9.0\RestSharp.dll
-C:\Users\ssmcs\Documents\GitHub\LGC_NUnit\LGC_NUNIT_API\NUnitTestProject\bin\Debug\net9.0\Allure.Net.Commons.dll
-C:\Users\ssmcs\Documents\GitHub\LGC_NUnit\LGC_NUNIT_API\NUnitTestProject\bin\Debug\net9.0\Allure.NUnit.dll
-C:\Users\ssmcs\Documents\GitHub\LGC_NUnit\LGC_NUNIT_API\NUnitTestProject\bin\Debug\net9.0\AspectInjector.Broker.dll
-C:\Users\ssmcs\Documents\GitHub\LGC_NUnit\LGC_NUNIT_API\NUnitTestProject\bin\Debug\net9.0\MimeTypesMap.dll
+C:\Users\ssmcs\Documents\GitHub\LGC_NUnit\LGC_NUNIT_API\NUnitTestProject\bin\Debug\net9.0\allureConfig.json

@@ -1,0 +1,8 @@
+Post Request
+Response Status Code: Created
+Response Content: {
+  "userId": 99,
+  "title": "LGC Test Title",
+  "body": "LGC Test Body",
+  "id": 101
+}
