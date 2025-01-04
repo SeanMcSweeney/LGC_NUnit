@@ -1,0 +1,56 @@
+{
+  "uuid": "07f128c5-a2ae-42fd-a4f1-8aa16fdebd46",
+  "historyId": "1ee947c374722f5b9c116f80d6dd7ce0",
+  "testCaseId": "20bd65d258bc02273e2d7bd71b2c0e19",
+  "fullName": "NUnitTestProject:Api_JSONPlaceHolder_Tests.Api_JSONPlaceHolder_Tests.DELETE_Request()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NUnit.Fw.NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "SEANS_PC"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "Api_JSONPlaceHolder_Tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "DELETE_Request"
+    },
+    {
+      "name": "testClass",
+      "value": "Api_JSONPlaceHolder_Tests"
+    },
+    {
+      "name": "tag",
+      "value": "APIDELETE"
+    }
+  ],
+  "links": [],
+  "name": "DELETE_Request",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "  Assert.That(response.StatusCode, Is.EqualTo(HttpStatusCode.OK|HttpStatusCode.NoContent))\r\n  Expected: NoContent\r\n  But was:  OK\r\n",
+    "trace": "   at Api_JSONPlaceHolder_Tests.Api_JSONPlaceHolder_Tests.DELETE_Request() in C:\\Users\\ssmcs\\Documents\\GitHub\\LGC_NUnit\\LGC_NUNIT_API\\NUnitTestProject\\Api_JSONPlaceHolder_Tests.cs:line 154\r\n"
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1736025651564,
+  "stop": 1736025651785
+}

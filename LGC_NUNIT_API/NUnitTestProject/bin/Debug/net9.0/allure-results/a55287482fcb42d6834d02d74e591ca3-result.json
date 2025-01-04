@@ -1,0 +1,51 @@
+{
+  "uuid": "bef210d0-725a-4c52-9bdf-d69fb4b0e34c",
+  "historyId": "21a07826044e5e0e7824b6553ddc49d5",
+  "testCaseId": "da3af08c0ee8e28559523c8f711b95f5",
+  "fullName": "NUnitTestProject:Api_JSONPlaceHolder_Tests.Api_JSONPlaceHolder_Tests.POST_Request()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NUnit.Fw.NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "SEANS_PC"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "Api_JSONPlaceHolder_Tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "POST_Request"
+    },
+    {
+      "name": "testClass",
+      "value": "Api_JSONPlaceHolder_Tests"
+    }
+  ],
+  "links": [],
+  "name": "POST_Request",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "40ee2c96-ec39-4f5c-809a-f3e70189673a-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1736024991501,
+  "stop": 1736024991746
+}

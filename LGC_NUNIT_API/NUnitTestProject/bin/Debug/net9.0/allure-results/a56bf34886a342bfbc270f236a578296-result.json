@@ -1,0 +1,55 @@
+{
+  "uuid": "8094aedf-8cb5-4f6c-bf4b-fb68ce3f0e4e",
+  "historyId": "1ee947c374722f5b9c116f80d6dd7ce0",
+  "testCaseId": "20bd65d258bc02273e2d7bd71b2c0e19",
+  "fullName": "NUnitTestProject:Api_JSONPlaceHolder_Tests.Api_JSONPlaceHolder_Tests.DELETE_Request()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NUnit.Fw.NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "SEANS_PC"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "Api_JSONPlaceHolder_Tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "DELETE_Request"
+    },
+    {
+      "name": "testClass",
+      "value": "Api_JSONPlaceHolder_Tests"
+    },
+    {
+      "name": "tag",
+      "value": "APIDELETE"
+    }
+  ],
+  "links": [],
+  "name": "DELETE_Request",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "0bf0f8b1-5406-4459-94d8-ca75bb79c0c8-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1736025892411,
+  "stop": 1736025892730
+}
